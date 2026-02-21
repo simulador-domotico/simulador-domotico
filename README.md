@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Dylan Ferreyra</h1>
-<h3 align="center">Desarrollador & Estudiante en UNLP (UNITEC), La Plata</h3>
+<h3 align="center">Desarrollador & Estudiante en UNLP, La Plata</h3>
 
 <p><img align="right" src="https://github.com/Adam-pw/Adam-pw/blob/main/animation_500_kxa883sd.gif" alt="Programmer Animation" width="400" /></p>
 
