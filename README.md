@@ -28,7 +28,7 @@ Este proyecto fue desarrollado como Práctica Formativa Obligatoria para el labo
 - **Lógica de Movimiento:** Programación del motor físico para la interacción con objetos (apertura de puertas, portones y cortinas).
 - **Diseño UI Base:** Creación de la barra superior de controles 3D con accesos rápidos a los dispositivos domóticos.
 
-**Joaquín Iannini** (Mejoras, expansión e integración) | [LinkedIn de Joaquín](https://www.linkedin.com/in/joaquin-iannini-30a6aa328/)
+**Joaquín Iannini** (Mejoras, expansión e integración) | [LinkedIn, ](https://www.linkedin.com/in/joaquin-iannini-30a6aa328/) [email](emailto:joaquin.iannini@gmail.com)
 - **Mejora de Interfaz y Navegación:** Diseño de controles de cámara laterales y ventanas emergentes de datos técnicos de componentes (ej: servomotores).
 - **Integración de Agente Virtual:** Desarrollo del módulo de transcripción de voz a texto y diseño inicial del flujo lógico del asistente virtual.
 
