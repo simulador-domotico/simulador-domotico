@@ -17,7 +17,7 @@
 
 <h3 align="left">🏠 Sobre el Proyecto: Simulador Domótico de Casa Adaptada</h3>
 
-Este proyecto fue desarrollado como Práctica Formativa Obligatoria para el laboratorio UNITEC. Consiste en una herramienta visual e interactiva (simulador 3D web) diseñada para demostrar el funcionamiento de un Sistema de Asistencia Domótica Virtual enfocado en personas con discapacidad y adultos mayores (basado en Diseño Universal).
+Este proyecto fue desarrollado como Práctica Formativa Obligatoria para el laboratorio UNITEC. Consiste en una herramienta visual e interactiva (simulador 3D web) diseñada para demostrar el funcionamiento de un Sistema de Asistencia Domótica Virtual enfocado en personas con discapacidad y adultos mayores (basado en Diseño Universal). [Dale un vistazo!](https://simulador-domotico.github.io/).
 
 
 
